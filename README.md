@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **eBay Motors Services**
 
-- 🌱 I’m currently learning **Java,React.js**
+- 🌱 I’m currently learning **Spring, Springboot, React.js**
 
 - 💬 Ask me about **Java, HTML, CSS, Javascript, SQL**
 
